@@ -1,7 +1,7 @@
 # Prueba-Tecnica-Junior-Data-Scientist
 ## Proyecto de Análisis de Datos de Ventas
 
-Este proyecto tiene como objetivo realizar un análisis exhaustivo de los datos de ventas de una cadena de tiendas. A través de la limpieza, consolidación y exploración de los datos, buscamos extraer insights relevantes que aporten valor y guíen decisiones estratégicas. Además, se plantea como opcional la creación de un modelo predictivo para evaluar patrones y tendencias.
+Este proyecto tiene como objetivo realizar un análisis exhaustivo de los datos de ventas de una cadena de tiendas. A través de la limpieza, consolidación y exploración de los datos, buscamos extraer insights relevantes que aporten valor y guíen decisiones estratégicas. 
 
 ## Archivos Principales
 - **`Datasets.ipynb`**: primera exploración y gestión de datos.
@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo realizar un análisis exhaustivo de los datos 
 ## Objetivos
 1. Limpieza y consolidación de datos.
 2. Análisis Exploratorio (EDA): patrones, distribuciones y visualizaciones.
-3. (Opcional) Modelo predictivo para estimar ventas futuras.
+3. Modelo predictivo 
 
 ## Autor
 Steven Noboa Ordóñez
