@@ -20,4 +20,4 @@ Este proyecto tiene como objetivo realizar un análisis exhaustivo de los datos 
 
 ## Autor
 Steven Noboa Ordóñez
-Data Scientist
+- Data Scientist
