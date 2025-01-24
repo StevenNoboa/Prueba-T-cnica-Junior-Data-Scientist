@@ -15,20 +15,20 @@ Este proyecto tiene como objetivo realizar un análisis exhaustivo de los datos 
 - **`ML_1.ipynb`**: análisis, exploración y tratamiento del DataFrame Final para la elección-creación de features y target. 
 - **`ML_1.ipynb`**: aplicación y creación del modelo de Machine Learning para predecir el target de `units_sold`.
   
-- **Datasets**: 
+## **Datasets**: 
   - `productos.csv`
   - `tiendas.csv`
   - `ventas.csv`
   - `df_final.csv`: dataset creado y consolidado tras la limpieza de datos **`Data_cleaning.ipynb`**
   - `df_final_ML.csv`: dataset creado para la aplicación y creación del modelo de Machine Learning **`ML_1.ipynb`**
   
-- **Carpeta Models**:
+## **Carpeta Models**:
 -  `final_model_gs`: modelo de Machine Learning creado, entrennado y puesto a prueba.
 -  `final_model_gs.yaml`: información del modelo de Machine Learning.
   
-- **Carpeta img**: imágenes de las visualizaciones creadas durante proyecto (gráficos de barras, líneas, dispersión, etc.).
+## **Carpeta img**: 
+- Imágenes de las visualizaciones creadas durante proyecto (gráficos de barras, líneas, dispersión, etc.).
   
-- **Prueba-Tecnica-Junior-Data-Scientist.zip**: carpeta comprimida con todos los archivos trabajados.
 
 
 ## Autor
