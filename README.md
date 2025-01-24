@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo realizar un análisis exhaustivo de los datos 
 - **`Data_cleaning.ipynb`**: proceso de limpieza y consolidación de datos.
 - **`EDA.ipynb`**: análisis exploratorio con visualizaciones e insights.
 - **`ML_1.ipynb`**: análisis, exploración y tratamiento del DataFrame Final para la elección-creación de features y target. 
-- **`ML_1.ipynb`**: aplicación y creación del modelo de Machine Learning para predecir el target de `units_sold`.
+- **`ML_2.ipynb`**: aplicación y creación del modelo de Machine Learning para predecir el target de `units_sold`.
   
 ## **Datasets**: 
   - `productos.csv`
